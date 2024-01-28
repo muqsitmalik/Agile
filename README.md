@@ -52,3 +52,41 @@ The Agile Manifesto is a set of guiding values and principles for Agile software
 
 4. **Responding to Change over Following a Plan:**
    - Encourages adaptability and the ability to respond to changing requirements.
+
+### Agile Manifesto Principles:
+
+1. **-Satisfy the Customer- through Early and Continuous Delivery of Valuable Software:**
+   - Prioritize delivering valuable software to customers in small, incremental releases to gather feedback and meet evolving needs.
+
+2. **-Welcome Changing Requirements-, Even Late in Development:**
+   - Be open to changes in requirements, recognizing that requirements may change as the project progresses.
+
+3. **-Deliver Working Software Frequently-, with a Preference for the Shortest Timescale:**
+   - Aim for regular, incremental releases of working software to gather feedback and provide value.
+
+4. **-Collaboration between Business People- and Developers throughout the Project:**
+   - Foster continuous collaboration between business stakeholders and development teams for shared understanding and alignment.
+
+5. **-Build Projects around Motivated Individuals-, Give Them the Environment and Support They Need, and Trust Them to Get the Job Done:**
+   - Empower and trust motivated individuals, providing the necessary support and environment.
+
+6. **Use -Face-to-Face Communication- Whenever Possible:**
+   - Prioritize direct, face-to-face communication to enhance understanding and collaboration.
+
+7. **-Working Software- is the Primary Measure of Progress:**
+   - Evaluate project progress based on the delivery of functional software, not just completion of tasks.
+
+8. **Maintain a -Sustainable Pace- of Work for the Developers:**
+   - Avoid overloading team members and promote a sustainable pace to maintain quality and morale.
+
+9. **Continuous -Attention to Technical Excellence and Good Design- Enhances Agility:**
+   - Emphasize the importance of technical excellence and good design to ensure flexibility and maintainability.
+
+10. **-Simplicity-—the Art of Maximizing the Amount of Work Not Done—is Essential:**
+    - Prioritize simplicity in design and implementation to reduce unnecessary complexity.
+
+11. **-Self-Organizing- Teams Encourage the Best Architectures, Designs, and Requirements to Emerge:**
+    - Empower teams to self-organize, allowing the best solutions to emerge through collaboration.
+
+12. **At Regular Intervals, -Reflect- on How to Become More Effective, Then Tune and -Adjust- the Behavior Accordingly:**
+    - Regularly review and reflect on team performance to identify areas for improvement and implement changes.
