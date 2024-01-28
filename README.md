@@ -122,3 +122,66 @@ The Agile Manifesto is a set of guiding values and principles for Agile software
 5. **Crystal:**
    - Crystal encompasses a family of Agile methodologies with different variants, emphasizing adaptability based on project characteristics.
 
+## Scrum: An Agile Framework
+
+## Scrum Roles:
+
+### Product Owner:
+- Represents the customer and stakeholders.
+- Defines and prioritizes the product backlog.
+
+### Scrum Master:
+- Facilitates the Scrum process.
+- Removes obstacles and ensures the team follows Scrum practices.
+
+### Development Team:
+- Cross-functional and self-organizing group.
+- Responsible for delivering increments of the product.
+
+## Scrum Artifacts:
+
+### Product Backlog:
+- An ordered list of features, enhancements, and fixes.
+- Prioritized by the Product Owner.
+
+### Sprint Backlog:
+- A subset of the product backlog for the current sprint.
+- Committed to by the development team.
+
+### Increment:
+- The sum of all product backlog items completed during a sprint.
+- Represents a potentially shippable product.
+
+## Scrum Events:
+
+### Sprint:
+- A time-boxed iteration, typically 2-4 weeks.
+- Produces a potentially shippable product increment.
+
+### Sprint Planning:
+- A meeting at the beginning of each sprint.
+- Defines what can be delivered in the sprint and how it will be achieved.
+
+### Daily Scrum:
+- A brief, daily meeting (15 minutes).
+- Each team member shares progress, plans, and challenges.
+
+### Sprint Review:
+- A meeting at the end of each sprint.
+- The development team presents the completed work to stakeholders.
+
+### Sprint Retrospective:
+- A meeting at the end of each sprint.
+- The team reflects on the sprint and identifies improvements.
+
+## Scrum Framework:
+
+Product Backlog > Sprint Planning > Sprint Backlog > Sprint (Daily Scrum) > Sprint Review > Increment
+
+Sprint Review > Sprint Retrospective > Sprint Planning
+
+## Scrum Board:
+
+Scrum board is a visual tool used in Scrum to manage and track the progress of work during a sprint.
+The Scrum board typically consists of three main columns: To Do, In Progress, and Done.
+The board is a valuable tool during the Sprint Review, demonstrating the work completed during the sprint.
