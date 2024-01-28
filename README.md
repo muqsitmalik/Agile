@@ -90,3 +90,35 @@ The Agile Manifesto is a set of guiding values and principles for Agile software
 
 12. **At Regular Intervals, Reflect on How to Become More Effective, Then Tune and Adjust the Behavior Accordingly:**
     - Regularly review and reflect on team performance to identify areas for improvement and implement changes.
+
+## Advantages of Agile
+
+- **Increased Client-Team Interaction:**
+  - Agile fosters a high level of interaction between the client and the project team throughout the development process.
+
+- **Enhanced Transparency to Clients:**
+  - Unlike the waterfall model where clients may not see project outcomes until completion, Agile provides transparency in every phase, keeping clients informed.
+
+- **Flexibility for Changes and Refinement:**
+  - Agile allows for continuous refinement and reprioritization of the product based on changing requirements and client feedback.
+
+- **Project Breakdown into Smaller Units:**
+  - Agile methodologies involve breaking the project into smaller units, facilitating high-quality development, testing, and collaboration.
+
+## Agile Methodologies
+
+1. **Extreme Programming (XP):**
+   - XP is an Agile methodology emphasizing technical excellence and frequent releases.
+
+2. **Kanban:**
+   - Kanban is a visual management method for software development, focusing on continuous delivery and workflow optimization.
+
+3. **Lean:**
+   - Lean principles, derived from manufacturing, are applied to software development to minimize waste and maximize value.
+
+4. **Scrum:**
+   - Scrum is a widely used Agile framework that organizes work into time-boxed iterations called sprints, promoting collaboration and regular delivery.
+
+5. **Crystal:**
+   - Crystal encompasses a family of Agile methodologies with different variants, emphasizing adaptability based on project characteristics.
+
