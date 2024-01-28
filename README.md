@@ -55,7 +55,7 @@ The Agile Manifesto is a set of guiding values and principles for Agile software
 
 ### Agile Manifesto Principles:
 
-1. **_Satisfy the Customer_ through Early and Continuous Delivery of Valuable Software:**
+1. ***Satisfy the Customer* through Early and Continuous Delivery of Valuable Software:**
    - Prioritize delivering valuable software to customers in small, incremental releases to gather feedback and meet evolving needs.
 
 2. **_Welcome Changing Requirements_, Even Late in Development:**
