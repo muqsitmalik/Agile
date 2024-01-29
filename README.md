@@ -185,3 +185,16 @@ Sprint Review > Sprint Retrospective > Sprint Planning
 Scrum board is a visual tool used in Scrum to manage and track the progress of work during a sprint.
 The Scrum board typically consists of three main columns: To Do, In Progress, and Done.
 The board is a valuable tool during the Sprint Review, demonstrating the work completed during the sprint.
+
+## Scrum Master Role
+- **Facilitates Scrum events:** Leads key Scrum events, including Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective.
+- **Serves as a Servant-Leader:** Supports the Scrum Team, removes impediments, and actively facilitates team success.
+- **Provides Coaching and Mentoring:** Guides the Scrum Team and organization in Scrum practices and values, fostering continuous improvement.
+- **Ensures Scrum Principles:** Upholds and promotes Scrum values and principles, guiding the team in self-organization and cross-functionality.
+- **Removes Obstacles:** Identifies and addresses impediments, collaborating to create a conducive working environment.
+- **Promotes Continuous Improvement:** Encourages a culture of continuous improvement and facilitates retrospectives for enhancement opportunities.
+- **Facilitates Collaboration:** Promotes collaboration and communication among team members and stakeholders.
+- **Protects the Team:** Shields the team from external interference during sprints and manages expectations with stakeholders.
+- **Monitors Metrics:** Tracks and helps the team understand relevant metrics, leveraging data to identify areas for improvement.
+- **Assists Scrum Implementation:** Aids the organization in adopting Scrum practices and collaborates with other Scrum Masters for knowledge sharing.
+- **Resolves Conflicts:** Addresses conflicts within the team or with external parties, fostering a collaborative and positive team environment.
