@@ -191,6 +191,9 @@ The board is a valuable tool during the Sprint Review, demonstrating the work co
 - Self-Sufficient and Cross-functional
 - Autonomous and Self-Organizing
 
+## Forming Scrum Team
+- Feature teams over Component Team
+
 ## Scrum Master Role
 - **Facilitates Scrum events:** Leads key Scrum events, including Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective.
 - **Serves as a Servant-Leader:** Supports the Scrum Team, removes impediments, and actively facilitates team success.
