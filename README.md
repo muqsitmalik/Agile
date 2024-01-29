@@ -186,6 +186,11 @@ Scrum board is a visual tool used in Scrum to manage and track the progress of w
 The Scrum board typically consists of three main columns: To Do, In Progress, and Done.
 The board is a valuable tool during the Sprint Review, demonstrating the work completed during the sprint.
 
+## Attributes of Scrum Team 
+- Small
+- Self-Sufficient and Cross-functional
+- Autonomous and Self-Organizing
+
 ## Scrum Master Role
 - **Facilitates Scrum events:** Leads key Scrum events, including Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective.
 - **Serves as a Servant-Leader:** Supports the Scrum Team, removes impediments, and actively facilitates team success.
